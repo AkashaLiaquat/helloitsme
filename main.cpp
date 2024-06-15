@@ -4,6 +4,10 @@ void bubblesort()
 {
 	//
 }
+void quicksort()
+{
+	//
+}
 int main()
 {
 	cout<<"Hello World!\n";
